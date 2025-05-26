@@ -5,7 +5,7 @@ This project contains solutions to the front-end coding challenges using **Next.
 ## 📁 Project Structure
 
 ```
-NEXTJS_ASSESSMENT/
+nextjs_assessment/
 ├── src/
 │    ├──app/
 │       ├── page.tsx           # Home navigation page
@@ -28,8 +28,8 @@ NEXTJS_ASSESSMENT/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/nextjs-interview-challenges.git
-cd nextjs-interview-challenges
+git clone https://github.com/Amsath/nextjs_assessment.git
+cd nextjs_assessment
 ```
 
 ### 2. Install Dependencies
@@ -88,5 +88,4 @@ console.log(twoSum([-1, 0], -1)); // [1, 2]
 ```
 
 ---
-
 
