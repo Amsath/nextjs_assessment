@@ -13,7 +13,7 @@ const Calculator = () => {
     const calculateSum = () => setTotal(num1 + num2);
 
     return (
-        <div className="flex flex-col mx-auto mt-auto justify-center items-center w-[600px] min-h-screen">
+        <div className="max-w-xl mx-auto bg-white shadow-md rounded-xl p-6 space-y-4 flex flex-col items-center">
             <h1 className="text-2xl font-bold mb-4">Calculator</h1>
             <div className="flex flex-col gap-3 w-[300px] items-center space-y-4">
                 <input

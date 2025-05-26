@@ -1,6 +1,6 @@
 const Topbar = ({ toggleSidebar }: any) => {
     return (
-        <nav className="border-b px-4 py-3 flex items-center justify-between relative">
+        <nav className="border-b px-4 py-3 flex items-center gap-4 relative">
             <button className="text-2xl cursor-pointer" onClick={() => toggleSidebar()}>
                 {"☰"}
             </button>

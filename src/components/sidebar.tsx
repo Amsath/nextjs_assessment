@@ -9,7 +9,7 @@ const Sidebar = ( {isOpen, toggleSidebar}: any) => {
                 <ul className="space-y-2">
                     <li><a href="/calculator" className="text-gray-700 hover:text-blue-600">Calculator</a></li>
                     <li><a href="/navbar" className="text-gray-700 hover:text-blue-600">Navbar</a></li>
-                    <li><a href="/twosum" className="text-gray-700 hover:text-blue-600">Twosum</a></li>
+                    <li><a href="/twosum" className="text-gray-700 hover:text-blue-600">Two Sum II</a></li>
                 </ul>
             </nav>}
         </>

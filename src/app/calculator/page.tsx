@@ -10,10 +10,8 @@ const page = () => {
                 </Link>
             </nav>
 
-            <main className="flex-1 flex items-center justify-center">
-                <div className="text-center">
-                    <h1 className="text-3xl font-bold"><Calculator></Calculator></h1>
-                </div>
+            <main className="min-h-screen p-6 bg-gray-50 text-gray-800">
+                <Calculator></Calculator>
             </main>
         </div>
     );
